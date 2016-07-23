@@ -11,13 +11,13 @@ To outline and implement an Oracle relational database normalised to 3NF. This d
 
 CONTENTS
 --------
-**database_document.pdf** contains:
-Business Description including structural and procedural rules
-Enhanced Entity Relationship Diagram
-Normalised Tables
-Table Mappings
-Commonly used queries
+**database_document.pdf**
+*Business Description including structural and procedural rules
+*Enhanced Entity Relationship Diagram
+*Normalised Tables
+*Table Mappings
+*Commonly used queries
 
-**databases_assignment.sql** contains:
-Create and insert table statements
-Sample queries
+**databases_assignment.sql**
+*Create and insert table statements
+*Sample queries
